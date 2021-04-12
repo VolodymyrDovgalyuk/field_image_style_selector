@@ -1,0 +1,7 @@
+name: 'Image Style Selector'
+type: module
+description: 'Provides a new field type for changing the image style for display.'
+core_version_requirement: ^8 || ^9
+package: Puig
+dependencies:
+  - paragraphs:paragraphs

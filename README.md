@@ -1,1 +1,3 @@
-# field_image_style_selector
+# This module provides an image style select field.
+
+// TODO Implement functionality for using field formatter in entities dynamically.
